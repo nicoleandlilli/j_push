@@ -1,4 +1,4 @@
-package com.nc.jpush.j_push
+package com.nc.jpush
 
 import io.flutter.embedding.android.FlutterActivity
 
